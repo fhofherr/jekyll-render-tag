@@ -1,4 +1,4 @@
-require 'jekyll_render_tag'
+require 'jekyll-render-tag'
 
 describe Jekyll::RenderTag do
 

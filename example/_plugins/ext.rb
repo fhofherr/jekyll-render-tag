@@ -1,1 +1,1 @@
-require '../lib/jekyll_render_tag.rb'
+require '../lib/jekyll-render-tag.rb'

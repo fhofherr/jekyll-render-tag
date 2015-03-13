@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "jekyll_render_tag/version"
+require "jekyll-render-tag/version"
 
 Gem::Specification.new do |s|
     s.name = "jekyll-render-tag"
